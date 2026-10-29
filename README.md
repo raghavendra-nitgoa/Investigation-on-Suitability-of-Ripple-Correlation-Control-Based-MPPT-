@@ -2,9 +2,9 @@
 # Manuscript ID: IEEE LATAM Submission ID: 10850.  
  Authors:
  
-  1. Raghavendra Bandaru, Research Scholar,
+  1. Raghavendra Bandaru, Research Scholar.
   
- 2. Sreeraj E.S., Associate Professor,
+ 2. Sreeraj E.S., Associate Professor.
   
  3. Puneet Kumar Goel, Chairmen MSPCL, Manipur. 
 # Discription
