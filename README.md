@@ -12,11 +12,11 @@ This work proposes a single-phase two-stage grid tied photovoltaic (PV) system e
 # 📁 Included Scripts
 This repository contains all scripts required to reproduce the simulation and numerical results presented in the article.
 
-1. INVERTER_CTRL.slx and MPPT_CTRL.slx- Inverter and MMPT control for obtaining the HIL and Hardware results presented in the manuscript.
+1. INVERTER_CTRL.slx and MPPT_CTRL.slx- Inverter and MPPT control strategies used to obtain the HIL and experimental hardware results presented in the manuscript.
 
-2. OCC_DQ_RCC_PO_BOOST_COMMON_GROUND_UPM- MATLAB/SIMULINK file to obtain the all simualtion results presented in the manuscripts.
+2. OCC_DQ_RCC_PO_BOOST_COMMON_GROUND_UPM- MATLAB/Simulink files required to reproduce all simulation results presented in the manuscript.
 
-3. RCC_OCC_TS_TYPE1_HL.mdl- Power circuit model for obtain the HIL results using real time platform.
+3. RCC_OCC_TS_TYPE1_HL.mdl- Power circuit model used to obtain the HIL results on the real-time simulation platform.
 
 
 # 💻Requirements  
