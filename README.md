@@ -2,6 +2,6 @@
 # Manuscript ID: IEEE LATAM Submission ID: 10850, Authors: Raghavendra Bandaru, Sreeraj E.S., Puneet Kumar Goel.
 This work proposes a single-phase two-stage grid tied photovoltaic (PV) system employing ripple correlation control (RCC) for performing maximum power point tracking (MPPT) and one-cycle control (OCC) for operating the common ground transformerless inverter (CGI). 
 # Software Requirements 
-MATLAB version 2023a
-Code composer studio
-MATLAB version 2011a
+MATLAB version 2023a,
+Code composer studio,
+MATLAB version 2011a.
