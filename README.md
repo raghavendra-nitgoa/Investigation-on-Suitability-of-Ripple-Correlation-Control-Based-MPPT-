@@ -1,5 +1,7 @@
 # Investigation-on-Suitability-of-Ripple-Correlation-Control-Based-MPPT-for One Cycle Controlled Single Phase Two Stage Grid Connected PV Systems
-# Manuscript ID: IEEE LATAM Submission ID: 10850, Authors: 
+# Manuscript ID: IEEE LATAM Submission ID: 10850,  
+ Authors:
+ 
   Raghavendra Bandaru, Research Scholar,
   
   Sreeraj E.S., Associate Professor,
