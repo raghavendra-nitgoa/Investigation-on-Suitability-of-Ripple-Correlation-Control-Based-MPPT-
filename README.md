@@ -22,6 +22,8 @@ This repository contains all scripts required to reproduce the simulation and nu
 
 5.  MPPT_CTRL.slx- MPPT control used to obtain the HIL and experimental hardware results presented in the manuscript.
 
+6.  GEDA_1kW_PV DATA_128.xlsx - PV panel data used to emulate the required PV characteristics using the PV emulator for experimental verification of proposed system. 
+
 
 # 💻Requirements  
 1. MATLAB version 2023a or later,
