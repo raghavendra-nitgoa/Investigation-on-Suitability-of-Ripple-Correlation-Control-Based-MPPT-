@@ -18,11 +18,12 @@ This repository contains all scripts required to reproduce the simulation and nu
 
 3. RCC_OCC_TS_TYPE1_HL.mdl- Power circuit model used to obtain the HIL results on the real-time simulation platform.
 
-4. PandO_MPPT.m- MATALB Script for P&O MPPT
+4. PandO_MPPT.m- MATLAB script for implementing the Perturb and Observe (P&O) maximum power point tracking (MPPT) algorithm.
 
-5.  MPPT_CTRL.slx- MPPT control used to obtain the HIL and experimental hardware results presented in the manuscript.
+5.  MPPT_CTRL.slx- MPPT control was employed to obtain the hardware-in-the-loop (HIL) and experimental hardware results presented in the manuscript.
 
-6.  GEDA_1kW_PV DATA_128.xlsx - PV panel data used to emulate the required PV characteristics using the PV emulator for experimental verification of proposed system. 
+
+6.  GEDA_1kW_PV DATA_128.xlsx - The PV panel parameters were used to emulate the desired photovoltaic characteristics using a PV emulator for the experimental validation of the proposed system.
 
 
 # 💻Requirements  
