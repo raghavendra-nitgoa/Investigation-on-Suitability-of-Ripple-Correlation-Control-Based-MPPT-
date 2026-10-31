@@ -11,6 +11,19 @@
 This work proposes a single-phase two-stage grid tied photovoltaic (PV) system employing ripple correlation control (RCC) for performing maximum power point tracking (MPPT) and one-cycle control (OCC) for operating the common ground transformerless inverter (CGI). 
 # 📁 Included Scripts
 This repository contains all scripts required to reproduce the simulation and numerical results presented in the article.
+The following table provides a brief description of the scripts used in this project.
+
+| S.No. | Script Name | Description |
+|:---:|---|---|
+| 1 | `data_preprocessing.py` | Performs data cleaning and preprocessing. |
+| 2 | `feature_extraction.py` | Extracts relevant features from the input data. |
+| 3 | `model_training.py` | Trains the proposed model using the processed dataset. |
+| 4 | `model_testing.py` | Evaluates the trained model using test data. |
+| 5 | `visualization.py` | Generates plots and visualizes the experimental results. |
+| 6 | `main.py` | Executes the complete workflow of the proposed method. |
+
+
+
 
 1. INVERTER_CTRL.slx and - Inverter control used to obtain the HIL and experimental hardware results presented in the manuscript.
 
