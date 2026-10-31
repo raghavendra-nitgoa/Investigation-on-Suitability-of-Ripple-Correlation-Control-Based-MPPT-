@@ -10,7 +10,7 @@
 # Discription
 This work proposes a single-phase two-stage grid tied photovoltaic (PV) system employing ripple correlation control (RCC) for performing maximum power point tracking (MPPT) and one-cycle control (OCC) for operating the common ground transformerless inverter (CGI). 
 # 📁 Included Scripts
-This repository contains all scripts required to reproduce the simulation and numerical results presented in the article.
+This repository contains all scripts required to reproduce the simulation and experimental results presented in the article.
 
 
 | S.No. | Script Name | Related figure(s) | Description|
