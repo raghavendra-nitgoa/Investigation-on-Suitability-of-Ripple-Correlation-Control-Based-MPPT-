@@ -14,7 +14,7 @@ This repository contains all scripts required to reproduce the simulation and nu
 
 
 | S.No. | Script Name | Related figure(s) | Description|
-|:---:|---|---|
+|:---:|---|---|---|
 | 1 | `OCC_DQ_RCC_PO_BOOST_COMMON_GROUND_UPM.slx` |Fig.9 to Fig.13| MATLAB/Simulink files required to reproduce all simulation results presented in the manuscript. |
 | 2 | `MPPT_CTRL.slx,PandO_MPPT.m,INVERTER_CTRL.slx,RCC_OCC_TS_TYPE1_HL.mdl` |Fig.16, Fig. 18-21| control files used to obtain the HIL and experimental hardware results presented in the manuscript |
 | 3 | `GEDA_1kW_PV DATA_128.xlsx | |The PV panel parameters were used to emulate the desired photovoltaic characteristics using a PV emulator for the experimental validation of the proposed system. |
